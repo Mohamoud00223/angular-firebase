@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "FIREBASE-ANGULAR-CRUD",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

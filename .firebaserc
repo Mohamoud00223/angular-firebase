@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "student-management-syste-35660"
+  },
+  "targets": {
+    "student-management-syste-35660": {
+      "hosting": {
+        "FIREBASE-ANGULAR-CRUD": [
+          "student-management-syste-35660"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
